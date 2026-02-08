@@ -10,6 +10,6 @@
 - **Update 8 Febuari 2026:** - Berhasil instalasi VM di Laptop Altof Zufar Musyaffa.
 - Kendala: tidak ada
 - Artefak:
-  [Bukti Screenshot Instalasi VM](Documentation/images/vm-utama.png)
-  [Bukti Screenshot Instalasi VM](Documentation/images/vm-backup.png)
+  [Bukti Screenshot Instalasi VM Utama](Documentation/images/vm-utama.png)
+  [Bukti Screenshot Instalasi VM Backup](Documentation/images/vm-backup.png)
 
