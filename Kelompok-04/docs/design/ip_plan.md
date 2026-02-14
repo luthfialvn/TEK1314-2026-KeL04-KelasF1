@@ -1,14 +1,11 @@
-# IP Address Plan - Kelompok 4 Siber
+# IP Address Plan - Kelompok 4 (Data Integrity Shield)
 
 ## Network Information
-
 - **Subnet** : 192.168.4.0/24  
 - **Subnet Mask** : 255.255.255.0  
 - **Default Gateway** : 192.168.4.1  
 - **IP Range Usable** : 192.168.4.1 - 192.168.4.254  
 - **Broadcast Address** : 192.168.4.255  
-
----
 
 ## Host Table
 
