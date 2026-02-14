@@ -15,6 +15,7 @@
 
 ### Update Minggu ke-3 (Fase Design)
 - **Target:** Perancangan arsitektur jaringan dan skema IP Address.
+- **Update 14 Febuari 2026:**
 - Membuat desain topologi jaringan yang terdiri dari Attacker Node, Target File Server (Samba), dan Monitoring Node (Security Onion).
 - Menentukan subnet network dan pembagian IP Address statis untuk setiap node.
 - Menyusun tabel IP Address (ip_plan.md) sesuai segmen jaringan yang telah ditentukan.
