@@ -37,7 +37,7 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
   - Monitoring Node: Security Onion
 - Status: **Fase Design Selesai.**
   - 📄 [IP Address Plan](Kelompok-04/documentation/ip_plan.md)
-  - 🖼️ [Network Topology](Kelompok-04/documantation/images/topology.png)
+  - 🖼️ [Network Topology](Kelompok-04/documentation/images/topology.png)
 
 
 
