@@ -36,8 +36,8 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
   - Target Server: Ubuntu Server (Samba File Server)
   - Monitoring Node: Security Onion
 - Status: **Fase Design Selesai.**
-  - 📄 [IP Address Plan](Kelompok-04/documentation/ip_plan.md)
-  - 🖼️ [Network Topology](Kelompok-04/documentation/images/topology.png)
+  - 📄 [IP Address Plan](Kelompok-04/Documentation/ip_plan.md)
+  - 🖼️ [Network Topology](Kelompok-04/Documentation/images/topology.png)
 
 
 
