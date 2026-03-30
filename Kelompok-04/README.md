@@ -36,4 +36,4 @@
 - Menjalankan Wireshark untuk merekam traffic normal (baseline).
 
 - Status: **Fase 1 Selesai**
-  - [Bukti Logging Check](docs/phase-1-baseline/assets/Bukti Logging Minggu5.jpeg)
+- [Bukti Logging Check](docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
