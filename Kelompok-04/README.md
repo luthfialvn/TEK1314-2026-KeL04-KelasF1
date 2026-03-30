@@ -29,4 +29,11 @@
   - 📄 [IP Address Plan](docs/design/ip_plan.md)
   - 🖼️ [Network Topology](docs/design/topology.png)
 
+### Update Minggu ke-4-7 (Fase Hardening & Baseline)
+- **Target:** Penguatan OS & Dokumentasi kondisi normal.
+- **Update 10 Maret 2026:** 
+- Melakukan Konfigurasi Firewall di Windows WM.
+- Menjalankan Wireshark untuk merekam traffic normal (baseline).
 
+- Status: **Fase 1 Selesai**
+  - [Bukti Logging Check](docs/phase-1-baseline/assets/Bukti Logging Minggu5.jpeg)
