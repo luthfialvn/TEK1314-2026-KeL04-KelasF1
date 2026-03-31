@@ -39,5 +39,13 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
   - 📄 [IP Address Plan](Kelompok-04/Documentation/ip_plan.md)
   - 🖼️ [Network Topology](Kelompok-04/Documentation/images/topology.png)
 
+### Update Minggu ke-4-7 (Fase Hardening & Baseline)
+- **Target:** Penguatan OS & Dokumentasi kondisi normal.
+- **Update 10 Maret 2026:** 
+- Melakukan Konfigurasi Firewall di Windows WM.
+- Menjalankan Wireshark untuk merekam traffic normal (baseline).
+
+- Status: **Fase 1 Selesai**
+- [Bukti Logging Check](docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
 
 
