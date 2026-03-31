@@ -46,6 +46,6 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Menjalankan Wireshark untuk merekam traffic normal (baseline).
 
 - Status: **Fase 1 Selesai**
-- [Bukti Logging Check](docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
+- [Bukti Logging Check](Kelompok-04/docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
 
 
