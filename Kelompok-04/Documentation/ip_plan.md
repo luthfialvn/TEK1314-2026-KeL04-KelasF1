@@ -23,7 +23,7 @@
 
 | Hostname           | Role              | IP Address      | Operating System      |
 |--------------------|-------------------|----------------|-----------------------|
-| target-ubuntu      | Web Server        | 192.168.4.20   | Ubuntu Server CLI     |
+| kelompok4-1      | Web Server        | 192.168.4.20   | Ubuntu Server CLI     |
 | target-metasploit  | Vulnerable Server | 192.168.4.30   | Metasploitable        |
 
 ---
@@ -32,7 +32,7 @@
 
 | Hostname   | Role        | IP Address     | Operating System |
 |------------|------------|---------------|------------------|
-| monitor-k4 | IDS / SIEM | 192.168.4.5   | Security Onion   |
+| SecOnion | IDS / SIEM | 192.168.4.5   | Security Onion   |
 
 ---
 
