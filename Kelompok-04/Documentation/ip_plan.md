@@ -15,7 +15,6 @@
 | Hostname   | Role     | IP Address      | Operating System |
 |------------|----------|----------------|------------------|
 | attacker-1 | Attacker | 192.168.4.100  | Kali Linux       |
-| attacker-2 | Attacker | 192.168.4.200  | Kali Linux       |
 
 ---
 
@@ -24,7 +23,6 @@
 | Hostname           | Role              | IP Address      | Operating System      |
 |--------------------|-------------------|----------------|-----------------------|
 | kelompok4-1      | Web Server        | 192.168.4.20   | Ubuntu Server CLI     |
-| target-metasploit  | Vulnerable Server | 192.168.4.30   | Metasploitable        |
 
 ---
 
