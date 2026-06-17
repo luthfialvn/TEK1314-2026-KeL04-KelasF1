@@ -12,9 +12,9 @@ Arsitektur yang dirancang terdiri dari tiga komponen utama: Attacker Node, Targe
 Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap integritas data terjadi, bagaimana pola aktivitasnya terdeteksi melalui analisis log dan monitoring jaringan, serta bagaimana langkah penahanan dan pemulihan dilakukan agar sistem dapat kembali berjalan normal.
 
 **Anggota:** 
-1. Luthfi Alviani (J0404231023) - Lead Analyst 
-2. Althof Zufar Musyaffa (J0404231119) - Security Engineer 
-3. Bagus Priwendy Simangunsong (J0404221036) - Analyst --- 
+1. Luthfi Alviani (J0404231023) - Red Team: Penyerang (melakukan simulasi serangan untuk uji keamanan)
+2. Althof Zufar Musyaffa (J0404231119) - Analis: Menganalisis hasil serangan dan evaluasi sistem keamanan
+3. Bagus Priwendy Simangunsong (J0404221036) - Blue Team: Hardening (penguatan sistem keamanan) --- 
 ## Log Aktivitas Mingguan 
 ### Minggu 1-2: Fase Setup 
 - **Target:** Instalasi CyberOps VM & Security Onion.
@@ -48,4 +48,13 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Status: **Fase 1 Selesai**
 - [Bukti Logging Check](Kelompok-04/docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
 
-
+### Update Minggu ke-15 (Presentasi Projek dan Pengumpulan Laporan Akhir)
+- **Target:** dokumentasi sudah lengkap
+- **Update 17 Juni 2026:** 
+- Presentasi Projek Akhir
+- Pembuatan Laporan Akhir
+- Melengkapi Github
+  
+- Status: ** selesai** 
+- [Bukti Pengumpulan]
+  
