@@ -56,5 +56,5 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Melengkapi Github
   
 - Status: **selesai** 
-- [Bukti Pengumpulan](Kelompok04/Reports/Laporan PJBL_Kelompok4_F.pdf)
+- [Bukti Pengumpulan](Kelompok-04/Reports/Laporan PJBL_Kelompok4_F.pdf)
   
