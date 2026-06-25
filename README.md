@@ -48,6 +48,11 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Status: **Fase 1 Selesai**
 - [Bukti Logging Check](Kelompok-04/docs/phase-1-baseline/assets/bukti-logging-minggu5.jpeg)
 
+### Update Minggu ke-10-14 (Fase Attacking)
+- **Target:** hardening berhasil diterapkan
+- **Update 28 April 2026:** 
+- Melakukan percobaan attacking pada sever ubuntu
+
 ### Update Minggu ke-15 (Presentasi Projek dan Pengumpulan Laporan Akhir)
 - **Target:** dokumentasi sudah lengkap
 - **Update 17 Juni 2026:** 
@@ -56,5 +61,5 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Melengkapi Github
   
 - Status: **selesai** 
-- [Bukti Pengumpulan](Kelompok-04/Reports/Laporan PJBL_Kelompok4_F.pdf)
+- [Bukti Pengumpulan](Kelompok-04/Reports/LaporanPJBL_Kelompok4_F.pdf)
   
